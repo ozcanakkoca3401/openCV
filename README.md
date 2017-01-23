@@ -6,7 +6,6 @@ initial project
 pod 'OpenCV'
 pod 'iCarousel'
 
-<img width="1440" alt="ekran resmi 2017-01-23 10 48 13" src="https://cloud.githubusercontent.com/assets/25038063/22201483/769406b8-e16c-11e6-9a6a-704f76936af2.png">
 
 <img width="1440" alt="ekran resmi 2017-01-23 10 48 13" src="https://cloud.githubusercontent.com/assets/25038063/22201483/769406b8-e16c-11e6-9a6a-704f76936af2.png">
 ![simulator screen shot 23 oca 2017 10 48 43](https://cloud.githubusercontent.com/assets/25038063/22201562/cb8bd182-e16c-11e6-815d-714f03dc142f.png)
