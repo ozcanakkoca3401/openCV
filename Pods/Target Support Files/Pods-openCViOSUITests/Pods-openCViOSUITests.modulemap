@@ -1,0 +1,6 @@
+framework module Pods_openCViOSUITests {
+  umbrella header "Pods-openCViOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

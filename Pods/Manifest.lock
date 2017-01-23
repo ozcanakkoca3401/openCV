@@ -1,0 +1,15 @@
+PODS:
+  - iCarousel (1.8.3)
+  - OpenCV (3.1.0.1)
+
+DEPENDENCIES:
+  - iCarousel
+  - OpenCV
+
+SPEC CHECKSUMS:
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  OpenCV: 41c4250e2b06a394d6fbb634b5fa622cdd846018
+
+PODFILE CHECKSUM: d5a938cb0e4e6c88020aa894021009fc36200a93
+
+COCOAPODS: 1.1.1
